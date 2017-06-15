@@ -1,0 +1,13 @@
+/ip dns static ## comment=BlockGames
+add address=127.0.0.1 name=fantazium.ru comment=BlockGames
+add address=127.0.0.1 name=forgeofempires.com comment=BlockGames
+add address=127.0.0.1 name=forgeofempires.ru comment=BlockGames
+add address=127.0.0.1 name=oldbk.com comment=BlockGames
+add address=127.0.0.1 name=raggame.ru comment=BlockGames
+add address=127.0.0.1 name=riftworld.ru comment=BlockGames
+add address=127.0.0.1 name=worldoftanks.ru comment=BlockGames
+add address=127.0.0.1 name=zzima.com comment=BlockGames
+add address=127.0.0.1 name=rbkgames.com comment=BlockGames
+add address=127.0.0.1 name=tera-online.ru comment=BlockGames
+add address=127.0.0.1 name=dragon-lord.ru comment=BlockGames
+add address=127.0.0.1 name=admachina.com comment=BlockGames
