@@ -1,4 +1,4 @@
-/ip dns static ## comment=BlockViruses 
+/ip dns static  
 add address=127.0.0.1 name=drebidengi.info comment=BlockViruses 
 add address=127.0.0.1 name=lickbylick.com comment=BlockViruses 
 add address=127.0.0.1 name=maxcash.com comment=BlockViruses 
