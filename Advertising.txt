@@ -1,4 +1,4 @@
-/ip dns static ## comment=BlockAdvertising
+/ip dns static
 add address=127.0.0.1 name=1100ad.com comment=BlockAdvertising
 add address=127.0.0.1 name=888poker.ru comment=BlockAdvertising
 add address=127.0.0.1 name=ad.mail.ru comment=BlockAdvertising
