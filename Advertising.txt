@@ -19,7 +19,6 @@ add address=127.0.0.1 name=adshost1.com comment=BlockAdvertising
 add address=127.0.0.1 name=adshost2.com comment=BlockAdvertising 
 add address=127.0.0.1 name=adshost2.com comment=BlockAdvertising 
 add address=127.0.0.1 name=adulttiz.com comment=BlockAdvertising 
-add address=127.0.0.1 name=adv.magna.ru/$script comment=BlockAdvertising 
 add address=127.0.0.1 name=advmaker.net comment=BlockAdvertising 
 add address=127.0.0.1 name=adwolf. comment=BlockAdvertising 
 add address=127.0.0.1 name=allowac.com comment=BlockAdvertising 
