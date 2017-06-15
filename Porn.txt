@@ -1,4 +1,4 @@
-/ip dns static ## comment=BlockPorn 
+/ip dns static 
 add address=127.0.0.1 name=17ebook.com comment=BlockPorn 
 add address=127.0.0.1 name=admulti.com comment=BlockPorn 
 add address=127.0.0.1 name=adultpornclipz.com comment=BlockPorn 
