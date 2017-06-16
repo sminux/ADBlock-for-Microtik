@@ -1,8 +1,8 @@
 /ip dns static  
-add address=127.0.0.1 name=drebidengi.info comment=BlockViruses 
-add address=127.0.0.1 name=lickbylick.com comment=BlockViruses 
+add address=127.0.0.1 name=ww1.drebidengi.info comment=BlockViruses 
+add address=127.0.0.1 name=https://lickbylick.com/home-lbl comment=BlockViruses 
 add address=127.0.0.1 name=maxcash.com comment=BlockViruses 
-add address=127.0.0.1 name=nnn.ru comment=BlockViruses 
+add address=127.0.0.1 name=www.nnn.ru comment=BlockViruses 
 add address=127.0.0.1 name=roulettebotplus.com comment=BlockViruses 
 add address=127.0.0.1 name=rsdisp.ru comment=BlockViruses 
 add address=127.0.0.1 name=s5fk.ru comment=BlockViruses 
