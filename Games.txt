@@ -1,5 +1,6 @@
 /ip dns static  
 add address=127.0.0.1 name=fantazium.ru comment=BlockGames 
+add address=127.0.0.1 name=gamexp.ru comment=BlockGames 
 add address=127.0.0.1 name=forgeofempires.com comment=BlockGames 
 add address=127.0.0.1 name=forgeofempires.ru comment=BlockGames 
 add address=127.0.0.1 name=oldbk.com comment=BlockGames 
